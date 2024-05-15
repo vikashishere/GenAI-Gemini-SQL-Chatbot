@@ -34,7 +34,7 @@ After completing the setup steps, access the Streamlit app through the provided 
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Vikash Das](https://github.com/vikashishere)
 
 ## License
 
