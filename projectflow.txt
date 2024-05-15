@@ -1,0 +1,11 @@
+1. Create a git repo and clone it in local.
+2. Setup the venv and install dependencies from requirements.txt
+    > conda create -p geminisql python==3.10 -y
+    > conda activate .....(now setup your requirements.txt)
+    > pip install -r requirements.txt
+    (add geminisql to .gitignore)
+3. Get your api key from: https://makersuite.google.com/app/apikey
+   Add it to a new .env file.
+4. Add code to splite.py file and execute it (python sqlite.py) -
+   This will create a student.db file
+5. Next is to create sql.py file and add code to it. and run your app.(streamlit run sql.py)
